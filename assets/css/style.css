@@ -1,0 +1,11 @@
+body {
+    background-image: url("/assets/images/clouds.jpg");
+    height: 300px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+/* input field */
+input#search {
+    background-color: transparent;
+}
