@@ -19,14 +19,14 @@ body {
     box-shadow: 2px 10px 15px white;
 }
 
-/* seatch box */
+/* search box */
 input#search {
     background-color: transparent;
     border: 1px solid #fafafa;
     height: 38px;
 }
 
-/* input field */
+/* search bar */
 input#search {
     background-color: transparent;
     border: 1px solid #fafafa;
